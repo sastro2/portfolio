@@ -22,8 +22,8 @@ function Contact() {
               labore anim adipisicing amet irure tempor.
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Email: sascha.stropek@gmail.com</li>
+              <li className="contact-item">Phone: +43 6801545211</li>
             </ul>
           </div>
         </div>
